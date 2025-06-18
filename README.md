@@ -28,3 +28,20 @@ This project implements a RESTful API to calculate reward points for customers b
 ```bash
 mvn clean install
 mvn spring-boot:run
+
+The application runs on: http://localhost:8080
+
+Features
+Monthly and total reward points per customer
+
+RESTful API built using Spring Boot
+
+In-memory data (no DB required)
+
+Unit & integration tests included
+
+Exception handling & input validation
+
+JavaDocs at class/method levels
+
+Follows Java coding standards
