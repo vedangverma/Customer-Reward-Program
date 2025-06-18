@@ -17,9 +17,7 @@ This project implements a RESTful API to calculate reward points for customers b
 
 ---
 
-## How to Run the Project
-
-### Prerequisites:
+### TechStack:
 - Java 17+
 - Maven
 - IntelliJ IDEA or any Java IDE
